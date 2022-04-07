@@ -1,0 +1,22 @@
+{
+    "Data":[
+        {
+            "Nama" : "Ilfani",
+            "Alamat" : "Tegal",
+            "Pekerjaan" : "Backend Engineer",
+            "Alasan" : "Belajar hal baru"
+        },
+        {
+            "Nama" : "Budi",
+            "Alamat" : "Jakarta",
+            "Pekerjaan" : "Backend Engineer",
+            "Alasan" : "Suka Programming"
+        },
+        {
+            "Nama" : "Nana",
+            "Alamat" : "Jambi",
+            "Pekerjaan" : "Backend Engineer",
+            "Alasan" : "Ingin menjadi expert di Backend"
+        }
+    ]
+}
